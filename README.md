@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0f2027,50:203a43,100:2c5364&text=NIKHIL%20PANDEY&fontColor=ffffff&fontSize=60&fontAlignY=42&desc=Systems%20%7C%20Web%20%7C%20Security&descAlignY=64&descSize=20" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0f2027,50:203a43,100:2c5364&text=NIKHIL%20PANDEY&fontColor=000000&fontSize=60&fontAlignY=42&desc=Systems%20%7C%20Web%20%7C%20Security&descAlignY=64&descSize=20" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=720&lines=Self-taught+developer+%7C+BCA+student;Building+a+Raft-based+distributed+KV+store+in+C%2B%2B;Web+Development+%7C+Networking+%7C+Cybersecurity" alt="Typing SVG" />
